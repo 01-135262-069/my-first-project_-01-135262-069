@@ -1,2 +1,20 @@
-# my-first-project_<01-135262-069
-My first GitHub repository
+# \# My First Project
+
+# 
+
+# \## About
+
+# This is my first GitHub repository created in ICT Lab.
+
+# 
+
+# \## Student Info
+
+# \- Name: Eitezaz Asaad Kahoot
+
+# \- Program: BSIT
+
+# \- Date: 2nd October, 2026
+
+
+
